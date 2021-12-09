@@ -1,0 +1,11 @@
+https://docs.python.org/3/library/hashlib.html#module-hashlib - for hashlib module-hashlib
+https://docs.python.org/3/library/heapq.html#module-heapq - for heapq module-heapq
+https://docs.python.org/3/library/hmac.html#module-hmac - for hmac module-hmac
+https://docs.python.org/3/library/html.html#module-html - for html module-html
+https://docs.python.org/3/library/html.entities.html#module-html.entities - for html.entities module-html.entities
+https://docs.python.org/3/library/html.parser.html#module-html.parser - for html.parser module-html.parser
+https://docs.python.org/3/library/http.html#module-http - for http module-http
+https://docs.python.org/3/library/http.client.html#module-http.client - for http.client module-http.client
+https://docs.python.org/3/library/http.cookiejar.html#module-http.cookiejar - for http.cookiejar module-http.cookiejar
+https://docs.python.org/3/library/http.cookies.html#module-http.cookies - for http.cookies module-http.cookies
+https://docs.python.org/3/library/http.server.html#module-http.server - for http.server module-http.server

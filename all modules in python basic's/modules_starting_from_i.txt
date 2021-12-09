@@ -1,0 +1,13 @@
+https://docs.python.org/3/library/imaplib.html#module-imaplib - for imaplib module-imaplib
+https://docs.python.org/3/library/imghdr.html#module-imghdr - for imghdr module-imghdr
+https://docs.python.org/3/library/imp.html#module-imp - for imp module-imp
+https://docs.python.org/3/library/importlib.html#module-importlib - for importlib module-importlib
+https://docs.python.org/3/library/importlib.html#module-importlib.abc - for importlib.abc module-importlib.abc
+https://docs.python.org/3/library/importlib.html#module-importlib.machinery - for importlib.machinery module-importlib.machinery
+https://docs.python.org/3/library/importlib.metadata.html#module-importlib.metadata - for importlib.metadata module-importlib.metadata
+https://docs.python.org/3/library/importlib.html#module-importlib.resources - for importlib.resources module-importlib.resources
+https://docs.python.org/3/library/importlib.html#module-importlib.util - for importlib.util module-importlib.util
+https://docs.python.org/3/library/inspect.html#module-inspect - for inspect module-inspect
+https://docs.python.org/3/library/io.html#module-io - for io module-io
+https://docs.python.org/3/library/ipaddress.html#module-ipaddress - for ipaddress module-ipaddress
+https://docs.python.org/3/library/itertools.html#module-itertools - for itertools module-itertools

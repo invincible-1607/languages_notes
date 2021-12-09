@@ -1,0 +1,8 @@
+https://docs.python.org/3/library/gc.html#module-gc - for gc module-gc
+https://docs.python.org/3/library/getopt.html#module-getopt - for getopt module-getopt
+https://docs.python.org/3/library/getpass.html#module-getpass - for getpass module-getpass
+https://docs.python.org/3/library/gettext.html#module-gettext - for gettext module-gettext
+https://docs.python.org/3/library/glob.html#module-glob - for glob module-glob
+https://docs.python.org/3/library/graphlib.html#module-graphlib - for graphlib module-graphlib
+https://docs.python.org/3/library/grp.html#module-grp - for grp module-grp
+https://docs.python.org/3/library/gzip.html#module-gzip - for gzip module-gzip

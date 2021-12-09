@@ -1,0 +1,8 @@
+https://docs.python.org/3/library/faulthandler.html#module-faulthandler - for faulthandler module-faulthandler
+https://docs.python.org/3/library/fcntl.html#module-fcntl - for fcntl module-fcntl
+https://docs.python.org/3/library/filecmp.html#module-filecmp - for filecmp module-filecmp
+https://docs.python.org/3/library/fileinput.html#module-fileinput - for fileinput module-fileinput
+https://docs.python.org/3/library/fnmatch.html#module-fnmatch - for fnmatch module-fnmatch
+https://docs.python.org/3/library/fractions.html#module-fractions - for fractions module-fractions
+https://docs.python.org/3/library/ftplib.html#module-ftplib - for ftplib module-ftplib
+https://docs.python.org/3/library/functools.html#module-functools - for functools module-functools

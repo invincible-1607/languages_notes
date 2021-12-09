@@ -1,0 +1,3 @@
+https://docs.python.org/3/library/json.html#module-json - for json module-json
+https://docs.python.org/3/library/json.html#module-json.tool - for json.tool module-json.tool
+https://docs.python.org/3/library/keyword.html#module-keyword - for keyword module-keyword

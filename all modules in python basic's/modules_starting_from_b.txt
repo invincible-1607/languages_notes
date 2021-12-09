@@ -1,0 +1,7 @@
+https://docs.python.org/3/library/base64.html#module-base64 - for base64 module-base64
+https://docs.python.org/3/library/bdb.html#module-bdb - for bdb module-bdb
+https://docs.python.org/3/library/binascii.html#module-binascii - for binascii module-binascii
+https://docs.python.org/3/library/binhex.html#module-binhex - for binhex module-binhex
+https://docs.python.org/3/library/bisect.html#module-bisect - for bisect module-bisect
+https://docs.python.org/3/library/builtins.html#module-builtins - for builtins module-builtins
+https://docs.python.org/3/library/bz2.html#module-bz2 - for bz2 module-bz2

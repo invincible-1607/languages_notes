@@ -1,0 +1,18 @@
+https://docs.python.org/3/library/email.html#module-email - for email module-email
+https://docs.python.org/3/library/email.charset.html#module-email.charset - for email.charset module-email.charset
+https://docs.python.org/3/library/email.contentmanager.html#module-email.contentmanager - for email.contentmanager for module-email.contentmanager
+https://docs.python.org/3/library/email.encoders.html#module-email.encoders - for email.encoders module-email.encoders
+https://docs.python.org/3/library/email.errors.html#module-email.errors - for email.errors module-email.errors
+https://docs.python.org/3/library/email.generator.html#module-email.generator - for email.generator module-email.generator
+https://docs.python.org/3/library/email.header.html#module-email.header - for email.header module-email.header
+https://docs.python.org/3/library/email.headerregistry.html#module-email.headerregistry - for email.headerregistry module-email.headerregistry
+https://docs.python.org/3/library/email.iterators.html#module-email.iterators - for email.iterators module-email.iterators
+https://docs.python.org/3/library/email.message.html#module-email.message - for email.message module-email.message
+https://docs.python.org/3/library/email.mime.html#module-email.mime - for email.mime module-email.mime
+https://docs.python.org/3/library/email.parser.html#module-email.parser -for email.parser module-email.parser
+https://docs.python.org/3/library/email.policy.html#module-email.policy - for email.policy module-email.parser
+https://docs.python.org/3/library/email.policy.html#module-email.policy - for email.policy module-email.policy
+https://docs.python.org/3/library/email.utils.html#module-email.utils - for email.utils module-email.utils
+https://docs.python.org/3/library/ensurepip.html#module-ensurepip - for email.ensurepip module-email.ensurepip
+https://docs.python.org/3/library/enum.html#module-enum - for enum module-enum
+https://docs.python.org/3/library/errno.html#module-errno - for errno module-errno

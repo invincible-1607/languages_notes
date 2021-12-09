@@ -1,0 +1,11 @@
+https://docs.python.org/3/library/dataclasses.html#module-dataclasses - for dataclasses module-dataclasses
+https://docs.python.org/3/library/datetime.html#module-datetime - for datetime module-datetime
+https://docs.python.org/3/library/dbm.html#module-dbm - for dbm module-dbm
+https://docs.python.org/3/library/dbm.html#module-dbm.dumb - for dbm.dumb module-dbm.dumb
+https://docs.python.org/3/library/dbm.html#module-dbm.gnu - for dbm.gnu module-dbm.gnu
+https://docs.python.org/3/library/dbm.html#module-dbm.ndbm - for dbm.ndbm module-dbm.ndbm
+https://docs.python.org/3/library/decimal.html#module-decimal - for decimal module-decimal
+https://docs.python.org/3/library/difflib.html#module-difflib - for difflib module-difflib
+https://docs.python.org/3/library/dis.html#module-dis - for dis module-dis
+https://docs.python.org/3/library/distutils.html#module-distutils - for distutils module-distutils
+https://docs.python.org/3/library/doctest.html#module-doctest - for doctest module-doctest

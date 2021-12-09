@@ -1,0 +1,10 @@
+https://docs.python.org/3/library/abc.html#module-abc - for abc module-abc
+https://docs.python.org/3/library/aifc.html#module-aifc - for aifc module-aifc
+https://docs.python.org/3/library/argparse.html#module-argparse - for argparse module-argparse
+https://docs.python.org/3/library/array.html#module-array - for array module-array
+https://docs.python.org/3/library/ast.html#module-ast - for ast module-ast
+https://docs.python.org/3/library/asynchat.html#module-asynchat - for asynchat module-asynchat
+https://docs.python.org/3/library/asyncio.html#module-asyncio - for asyncio module-asyncio
+https://docs.python.org/3/library/asyncore.html#module-asyncore - for asyncore module-asyncore
+https://docs.python.org/3/library/atexit.html#module-atexit - for atexit module-atexit
+https://docs.python.org/3/library/audioop.html#module-audioop - for audioop module-audioop
