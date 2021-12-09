@@ -1,0 +1,30 @@
+ASSIGNMENT-6
+
+1.	input seven value in list and display all its sum and average as well as return it.
+2.	input 10 value in list and input single value in variable then search value from list
+3.	Input 5 values in list and find maximum value.
+4.	Input 5 values in list and find minimum value.
+5.	declare and input in to two list each size of 5 then perform its addition operation and it's result into third list size of 5......(additional array)
+6.	declare and input in to two list each size of 5 then perform its subtraction operation and it's result into third list size of 5......(subtraction array)
+7.	declare and input in to two array each size of 5 then perform its multiplication operation and it's result into third array size of 5......(multiplication array)
+8.	Declare two arrays each size of 5 initialization first array, then input second array and merge in to third array which is size of 10.
+9.	Declare an array size of 5 (to the calculate frequency of given numbs) then input 25 num between 0 to 50 and display frequency of each class.
+10.	Input five data in array and copy to anther array reverse way.
+11.	input five int num in array and copy all num to anther array reverse way+++
+12.	Input five value in array and display shorted order. (ascending /deseeding).
+
+String
+
+1.	Find The String Length.
+2.	Count The Word From Given String.
+3.	Count The Vowels From Given String.
+4.	Find The Character Position From Given String.
+5.	Replace The Character From Given String.
+6.	Delete The Character From Given String.
+7.	Convert A String Into Toggle Case.
+8.	Convert A String Into Title Case.
+9.	Convert A String Into Upper Case.
+10.	Convert A String Into lover Case.
+11.	Convert A String Into Reverse String.
+12.	Read a string through the keyboard. And Write a program to print character by character with the ASCII code.
+13.	Append a string i.e. add one string into another.
